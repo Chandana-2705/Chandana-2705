@@ -22,10 +22,10 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering graduate passio
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+###  Languages
 - Python
 - SQL
-- C / C++
+  
 
 ### Technologies & Tools
 - Git & GitHub
@@ -35,12 +35,10 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering graduate passio
 - Automation Testing
 
 ### Core Concepts
-- Data Structures & Algorithms
-- Object-Oriented Programming
 - Database Management Systems
 - Computer Networks
 - Software Testing
-- Problem Solving
+  
 
 ---
 
