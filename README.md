@@ -86,11 +86,11 @@ To start my career in the IT industry where I can apply my technical skills, con
 
 ## 🤝 Let's Connect
 
-📧 **Email:** Add your email here
+📧: chandana2717@gmail.com
 
-💼 **LinkedIn:** Add your LinkedIn profile here
+💼: http://linkedin.com/in/chandana-s-002bab337
 
-🌐 **Portfolio:** Add your portfolio here
+
 
 ---
 
